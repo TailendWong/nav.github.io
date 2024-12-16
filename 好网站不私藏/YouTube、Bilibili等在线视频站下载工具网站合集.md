@@ -84,5 +84,9 @@ YouTube|Bilibili等在线视频站下载工具网站合集[](#YouTube|Bilibili�
 *   youtube-dl：[https://yt-dl.org](https://yt-dl.org/) 开源项目[GitHub](https://github.com/ytdl-org/youtube-dl)
     *   具体使用可以看：[youtube-dl，又一全网视频下载利器](https://www.jianshu.com/p/7a3768544190)
     *   [支持下载网站列表](http://ytdl-org.github.io/youtube-dl/supportedsites.html)
+*   lux: 用 Go 编写的快速简单的视频下载 CLI 工具 [Github](https://github.com/iawia002/lux)
+    * [安装](https://github.com/iawia002/lux?tab=readme-ov-file#installation)
+    * [使用](https://github.com/iawia002/lux?tab=readme-ov-file#getting-started)
+    * [支持的视频网站](https://github.com/iawia002/lux?tab=readme-ov-file#supported-sites)
 *   IDM：[http://www.internetdownloadmanager.com](http://www.internetdownloadmanager.com/) 配合IDM网页插件可以下载网上大部分视频音频文件
     *   [320印象](https://www.320nle.com/)持续更新绿色版：[https://wwx.lanzoux.com/ijBlTjskmva](https://wwx.lanzoux.com/ijBlTjskmva)
